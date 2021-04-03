@@ -1,1 +1,1 @@
-# CS336
+Flight Reservation System
